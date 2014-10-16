@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IndoorDB</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_insert">Insert Data</string>
+    <string name="action_delete">Delete Data</string>
+    <string name="identity">Marker ID</string>
+    <string name="latlng">Lat/Lng</string>
+    <string name="floor">Floor</string>
+    <string name="room">Room</string>
+    <string name="insert">Insert</string>
+    <string name="button2">Delete</string>
+    <string name="done">Done</string>
+    <string name="enter_room_number">Enter Room Number</string>
+    <string name="database">Reference Points</string>
+    <string name="empty">No Data</string>
+
+</resources>
